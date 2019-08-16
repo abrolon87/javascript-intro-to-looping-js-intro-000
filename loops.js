@@ -8,7 +8,7 @@ function forLoop(array) {
 }
   return array
 }
-//passed
+
 function whileLoop(n) {
   let countdown = n;
    while (n > 0) {
@@ -16,7 +16,7 @@ function whileLoop(n) {
   }
    return "done";
 }
-//passed
+
 function doWhileLoop(num) {
   var i = 0;
   function incrementVariable() {
